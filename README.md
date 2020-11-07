@@ -5,7 +5,7 @@ Welcome to the Intro to Git workshop! As a little practice exercise, add your na
 <!---Please add your name below--->
 
 Isaac Curiel
-
+Art Guintp
 
 
 
